@@ -1,0 +1,291 @@
+
+.box1{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box2{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box3{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box4{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box5{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box6{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box7{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box8{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box9{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box10{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box11{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box12{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box13{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box14{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box15{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box16{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box17{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.box18{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.box19{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.top1{
+    height: 200px;    
+    width: 950px;
+    display: inline-block;
+    background-color: darkgoldenrod;
+}
+.top2{
+    height: 200px;    
+    width: 925px;
+    display: inline-block;
+    background-color: darkkhaki;
+}
+.mid1{
+    height: 200px;    
+    width: 750px;
+    display: inline-block;
+    background-color: darkgoldenrod;
+    position: relative;
+    left: 200px;
+}
+.box-mid-left{
+    height: 100px;    
+    width: 100px;
+    background-color: darkolivegreen;
+    position: absolute;
+    bottom: 0px;
+}
+.mid2{
+    height: 200px;    
+    width: 750px;
+    display: inline-block;
+    background-color: darkkhaki;
+    position: relative;
+    left: 200px;
+}
+.box-mid-right{
+    height: 100px;    
+    width: 100px;
+    background-color: darkolivegreen;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.bot1{
+    height: 200px;    
+    width: 950px;
+    display: inline-block;
+    background-color: darkgoldenrod;
+}
+.bot2{
+    height: 200px;    
+    width: 925px;
+    display: inline-block;
+    background-color: darkkhaki;
+}
+.bot-box1{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box2{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box3{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box4{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box5{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box6{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box7{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box8{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box9{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box10{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box11{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box12{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box13{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box14{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box15{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box16{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box17{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.bot-box18{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.bot-box19{
+    height: 100px;    
+    width: 100px;
+    display: inline-block;
+    background-color: darkolivegreen;
+}
+.footer-center{
+    position: absolute;
+    left: 800px;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
